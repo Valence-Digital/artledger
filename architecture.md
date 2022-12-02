@@ -1,5 +1,8 @@
 # ArtLedger Data Standard
 
+[![hackmd-github-sync-badge](https://hackmd.io/6Bo-ZeVNRsW9arfd_NjLTA/badge)](https://hackmd.io/6Bo-ZeVNRsW9arfd_NjLTA)
+
+
 ## Module Actions
 ### Entity Identity
 ### Object Identity
