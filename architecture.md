@@ -7,28 +7,38 @@
 ### Entity Identity
 ### Object Identity
 ### Certificate of Authenticity
+The COA is an object identity with a certain set of attributes. 
+Also the COA contains methods enables the following actions:
 #### Create
 #### Provide
-#### Transfer
+#### Transfer Rights
 <!-- Artist,contract NFT each separate
  NFT is the pointer, construct proof of authenticity
 no ownership per Hunter
 -->
+
 #### Claim
 #### Renew
 #### Revoke
-
+#### Revise
+Data revision based on the output of a dispute resolution or arbitration ruling
 
 #### Recoverability
 #### Attest
 <!-- Append to the provenenance DAG, where exhibited, loaned-->
+Certificate of Title, proof of ownership. Different than the COA
 ### Ship
 ### Transfer Ownership
 <!-- DAG of ownership so artist and gallery gets percentage of secondary sales 
 -->
 <!-- Fractional Ownership -->
+Composite action that enables transfer ownership action on the COA
+Also contains other actions, such monetary exchange.
+Financing is contained here. Enacts a special case of transfer, where COA could held in escrow.
 ### Underwrite
 ### Valuation
+### Dispute
+### Arbitration
 
 ## Roles
 ### Creator
